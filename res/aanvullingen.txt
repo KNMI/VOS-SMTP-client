@@ -1,0 +1,2 @@
+- 23-10-2006  - bij properties van statusbar moet SimplePanel op true staan anders geen mededelingen zichtbaar in statusbar
+              - geheel breeder gemaakt, meer ruimte bv voor email adres(sen) 
