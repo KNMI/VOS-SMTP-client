@@ -1,0 +1,1 @@
+AnsiString command_line;
