@@ -1,0 +1,7 @@
+*** TurboWin E-mail settings, do not edit ***
+ToAddress         : stam@knmi.nl
+Subject           : test indy mail
+Host              : bcsxcs
+UserID            : stam
+FromAddress       : martin.stam@knmi.nl
+FromName          : burootje kamer A1.12
